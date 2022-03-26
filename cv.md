@@ -26,4 +26,10 @@ ___
 6. Commitment to professional development
 ___
 
-
+## **Technical Skills:**
+- HTML
+- CSS 
+- JavaScript 
+- Git 
+- Figma (for web development)
+- Editors: VSCode, Sublime
